@@ -27,7 +27,7 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidMovas&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DavidMovas&theme=default&cache_seconds=1800&border_radius=4&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=26&bg_color=000000&disable_animations=false&number_format=short" alt="GitHub stats Card" />
 </p>
