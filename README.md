@@ -23,7 +23,7 @@
 
  **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <ul align="center" style="list-style: none">
     <img src="https://cdn.simpleicons.org/go/00ADD8" height="32" alt="Go" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/postgresql/336791" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/terraform/623CE4" height="32" alt="Terraform" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="32" alt="Git" style="margin-right: 4px"></ul></div>
 
