@@ -23,7 +23,7 @@
 
  **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <ul align="center" style="list-style: none">
     <img src="https://cdn.simpleicons.org/go/00ADD8" height="32" alt="Go" style="margin-right: 4px"> 
     <img src="https://cdn.simpleicons.org/dotnet" height="32" alt="Go" style="margin-right: 4px"> 
